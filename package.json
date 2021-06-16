@@ -1,5 +1,5 @@
 {
-  "name": "ireports",
+  "name": "webpush",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web-push": "^3.4.4"
+    "web-push": "^3.4.0"
   }
 }

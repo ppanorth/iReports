@@ -2,8 +2,8 @@ const webpush = require('web-push');
 
 // VAPID keys should only be generated only once.
 const vapidKeys = {
-      publicKey: 'BLiGs98UJLSva9Bt_mc7c3ziCcw8A7bgWGrW4FQUaB_e4vRmi9TPsnROVZVP9FRfZ9Nk8dMModXIb4M_L4ATs7U',
-      privateKey: 'HTfOcR1yoCadb0OD7UhVdVqap2RXX9-dZyxEFtdPMMo'
+  publicKey: 'BBKEFJBTih20pCkFKXw1Gd51joIpavUXG1HrEES5IDvCa6mElW13QzQDuK4cC_aWP0zXjcZE5Wdhxyut1nCCzT0',
+  privateKey: 'O5L6Bc7Dqa8Cd6LnquI3ezzWLlrlZ9rg3vEQyjhYfMs'
 };
 
 webpush.setVapidDetails(
